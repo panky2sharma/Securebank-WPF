@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT44.4296004S" SolutionTotalViewTime="PT6M50.4803299S" SolutionTotalDebugTime="PT6.1527307S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>G:\WPF\SecureBank2</SolutionFolder>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT1M5.2577136S" EditActiveTime="PT3.8165827S">
+      <ModifiedDate>2019-03-10T23:54:13.8835565+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Pages\Dashboard.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:50:46.7645214+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.4655064S" EditActiveTime="PT0.8790004S">
+      <ModifiedDate>2019-03-10T23:52:03.3841353+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Pages\Dashboard.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:52:01.2411571+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.1527307S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-10T23:54:35.1750687+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT43.7263092S" EditActiveTime="PT3.0724472S">
+      <ModifiedDate>2019-03-10T23:53:55.7794532+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Pages\Login.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:50:29.4822086+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M38.6218257S" EditActiveTime="PT33.9684645S">
+      <ModifiedDate>2019-03-10T23:56:33.80791+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Pages\Login.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:51:38.1820135+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT22.6772592S" EditActiveTime="PT1.3530319S">
+      <ModifiedDate>2019-03-10T23:52:20.1422622+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\MainWindow.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:52:16.3291123+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.2328103S" EditActiveTime="PT1.3400737S">
+      <ModifiedDate>2019-03-10T23:53:42.0943581+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Assets\ModernUI.BingImage.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:53:36.5513184+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT33.5298237S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\SampleParameterCommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:52:23.6285261+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT1M5.2577136S" EditActiveTime="PT3.8165827S">
+      <ModifiedDate>2019-03-10T23:54:13.8835565+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Pages\Dashboard.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:50:46.7645214+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.4655064S" EditActiveTime="PT0.8790004S">
+      <ModifiedDate>2019-03-10T23:52:03.3841353+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Pages\Dashboard.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:52:01.2411571+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.1527307S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-10T23:54:35.1750687+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT43.7263092S" EditActiveTime="PT3.0724472S">
+      <ModifiedDate>2019-03-10T23:53:55.7794532+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Pages\Login.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:50:29.4822086+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M38.5909075S" EditActiveTime="PT33.9684645S">
+      <ModifiedDate>2019-03-10T23:56:33.80791+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Pages\Login.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:51:38.1820135+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT22.6772592S" EditActiveTime="PT1.3530319S">
+      <ModifiedDate>2019-03-10T23:52:20.1422622+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\MainWindow.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:52:16.3291123+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.2328103S" EditActiveTime="PT1.3400737S">
+      <ModifiedDate>2019-03-10T23:53:42.0943581+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Assets\ModernUI.BingImage.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:53:36.5513184+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT33.5298237S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\SampleParameterCommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:52:23.6285261+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT6.1527307S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-10T23:54:35.1750687+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.2328103S" EditActiveTime="PT1.3400737S">
+      <ModifiedDate>2019-03-10T23:53:42.0943581+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Assets\ModernUI.BingImage.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:53:36.5513184+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT33.5298237S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\SampleParameterCommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:52:23.6285261+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT22.6772592S" EditActiveTime="PT1.3530319S">
+      <ModifiedDate>2019-03-10T23:52:20.1422622+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\MainWindow.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:52:16.3291123+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.4655064S" EditActiveTime="PT0.8790004S">
+      <ModifiedDate>2019-03-10T23:52:03.3841353+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Pages\Dashboard.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:52:01.2411571+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M38.5919107S" EditActiveTime="PT33.9684645S">
+      <ModifiedDate>2019-03-10T23:56:33.80791+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Pages\Login.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:51:38.1820135+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M5.2577136S" EditActiveTime="PT3.8165827S">
+      <ModifiedDate>2019-03-10T23:54:13.8835565+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Pages\Dashboard.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:50:46.7645214+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT43.7263092S" EditActiveTime="PT3.0724472S">
+      <ModifiedDate>2019-03-10T23:53:55.7794532+05:30</ModifiedDate>
+      <ModifiedBy>PANKAJ</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\Pages\Login.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>G:\WPF\SecureBank2\FirstFloor.ModernUI.App\FirstFloor.ModernUI.App.csproj</ProjectName>
+      <CreatedDate>2019-03-10T23:50:29.4822086+05:30</CreatedDate>
+      <ViewedBy>PANKAJ</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>

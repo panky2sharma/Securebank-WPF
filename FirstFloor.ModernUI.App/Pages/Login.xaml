@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="FirstFloor.ModernUI.App.Pages.Login"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:app="clr-namespace:FirstFloor.ModernUI.App"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="400"  HorizontalAlignment="Center" Margin="0,40,10,0">
+    <ScrollViewer>
+        <StackPanel MinWidth="200">
+            <TextBlock Text="Please swipe the card" Style="{StaticResource Heading2}" Margin="0,8,0,20" />
+            <!--<mui:BBCodeBlock BBCode="A sample form demonstrating various controls with support for validation and focus visualization." Margin="0,0,0,16"/>-->
+            <!-- actual form starts here -->
+            <StackPanel x:Name="_Form" Orientation="Horizontal">
+                <!-- create viewmodel -->
+                <!--<StackPanel.DataContext>
+                    <app:SampleFormViewModel />
+                </StackPanel.DataContext>-->
+                <StackPanel>
+                    <TextBox x:Name="txtCard" Width="200"  Text="{Binding btnCardSwipe, Mode=TwoWay, ValidatesOnDataErrors=True}" HorizontalAlignment="Left"  />
+                </StackPanel>
+                <StackPanel>
+                    <Button x:Name="btnCardSwipe" Content="Card Swipe"  Click="btnCardSwipe_Click" Margin="20,-3,0,0" HorizontalAlignment="Right" Width="120"  />
+                </StackPanel>
+            </StackPanel>
+            <StackPanel x:Name="_FormPinLogin" Orientation="Horizontal" Margin="0,20,0,0" Visibility="Hidden" >
+                <StackPanel x:Name="pnlPin"  Orientation="Vertical" >
+                    <Label Content="Please enter Pin" Target="{Binding ElementName=txtPinCode}"/>
+                    <!--<TextBox x:Name="txtPinCode" Width="200"  Text="{Binding Password, ValidatesOnDataErrors=True}" FontFamily="ms-appx:///Assets/PassDot.ttf#xminus" HorizontalAlignment="Center" />-->
+                    <PasswordBox x:Name="txtPinCode" Width="200"  PasswordChar="*" />
+                </StackPanel>
+                <StackPanel >
+                    <Button x:Name="btnLogin" Content="Login"  Click="btnLogin_Click" Margin="20,15,0,0" HorizontalAlignment="Right" Width="120" />
+                </StackPanel>
+            </StackPanel>
+
+
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>

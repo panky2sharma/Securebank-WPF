@@ -1,0 +1,8 @@
+﻿<mui:ModernWindow x:Class="FirstFloor.ModernUI.App.MainWindow"
+                  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                  xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+                  Title="Welcome to SecureBank ATM" IsTitleVisible="True"
+                  ContentSource="/Pages/Login.xaml"
+                  Width="800" Height="700">
+</mui:ModernWindow>

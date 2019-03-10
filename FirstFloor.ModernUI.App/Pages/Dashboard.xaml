@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="FirstFloor.ModernUI.App.Pages.Dashboard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:app="clr-namespace:FirstFloor.ModernUI.App"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="450"  HorizontalAlignment="Center" Margin="0,40,10,0">
+    <ScrollViewer>
+        <StackPanel MinWidth="300">
+            <TextBlock Text="Main Menu" Style="{StaticResource Heading2}" Margin="0,8,0,20" />
+            <!--<mui:BBCodeBlock BBCode="A sample form demonstrating various controls with support for validation and focus visualization." Margin="0,0,0,16"/>-->
+            <!-- actual form starts here -->
+            <StackPanel x:Name="_Form" Orientation="Horizontal" Margin="0,20,0,0">
+                <!-- create viewmodel -->
+                <!--<StackPanel.DataContext>
+                    <app:SampleFormViewModel />
+                </StackPanel.DataContext>-->
+                <StackPanel>
+                    <Button x:Name="btnAccountInfo" Content="View Account Information" Margin="20,0,0,0" HorizontalAlignment="Right" Width="172"  />
+                </StackPanel>
+                <StackPanel>
+                    <Button x:Name="btnCashWithdrawal" Content="Cash Withdrawal"  Click="btnCashWithdrawal_Click" Margin="80,0,0,10" HorizontalAlignment="Right" Width="172"  />
+                    <TextBlock>            
+                        <Run x:Name="dialogResult" FontWeight="Bold" />
+                    </TextBlock>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel x:Name="_Form2" Orientation="Horizontal" Margin="0,40,0,0">
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="btnCardSwipe" Content="View Past Transactions"  Margin="20,0,0,0" HorizontalAlignment="Right" Width="172"  />
+                </StackPanel>
+                <StackPanel Orientation="Vertical">
+                    <Button x:Name="btnViewBalance" Content="View Balance"  Margin="80,0,0,0" HorizontalAlignment="Right" Width="172"  />
+                </StackPanel>
+
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>
